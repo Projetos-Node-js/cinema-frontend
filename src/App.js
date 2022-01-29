@@ -7,6 +7,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        Neste exemplo foi adicionado<br/>
+        mais alguns componentes
         <Atom/>
         <Text/>
         <LinkReact>Learn React</LinkReact>
